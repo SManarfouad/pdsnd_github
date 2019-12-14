@@ -11,8 +11,7 @@ months = ('january', 'february', 'march',
           'april', 'may', 'june')
 
 weekdays = ('sunday', 'monday', 'tuesday', 
-            'wednesday', 'thursday', 'friday',
-            'saturday')
+            'wednesday', 'thursday', 'friday', 'saturday')
 
 
 def get_filters():
